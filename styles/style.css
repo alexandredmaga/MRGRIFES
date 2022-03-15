@@ -235,7 +235,10 @@ footer {
         
     }
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> c0034e034f1f35b33e03b94a87ac2e4adf78b02d
 
     header {
         height: 80px;
@@ -272,8 +275,12 @@ footer {
 
     
 
+<<<<<<< HEAD
     .logo, h1 {
         text-align: center;
+=======
+    h1 {
+>>>>>>> c0034e034f1f35b33e03b94a87ac2e4adf78b02d
         font-size: 50px;
         text-align: center;
     }
